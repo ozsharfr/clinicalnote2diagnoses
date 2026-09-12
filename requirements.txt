@@ -1,0 +1,7 @@
+sentence-transformers==3.1.1
+scikit-learn==1.8.0
+pandas==2.3.3
+numpy==2.4.2
+fastapi==0.129.0
+uvicorn==0.34.3
+pydantic==2.*

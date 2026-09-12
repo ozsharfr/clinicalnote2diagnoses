@@ -1,0 +1,7 @@
+icd10cm/
+artifacts/
+notes/
+__pycache__/
+*.pyc
+.venv/
+scratch_*

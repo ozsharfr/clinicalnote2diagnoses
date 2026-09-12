@@ -1,0 +1,7 @@
+icd10cm/
+notes/
+artifacts/
+**/__pycache__/
+*.pyc
+.git/
+scratch_*
